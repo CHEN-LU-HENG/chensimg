@@ -1,0 +1,14 @@
+{
+  "name": "luheng-chensimg",
+  "version": "1.0.2",
+  "description": "静态资源仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "chenluheng",
+  "license": "ISC"
+}
